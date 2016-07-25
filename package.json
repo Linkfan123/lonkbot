@@ -1,0 +1,21 @@
+{
+  "name": "lonkbot",
+  "version": "1.0.0",
+  "description": "the worst discord bot evar",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "brony",
+    "filthy",
+    "terrible"
+  ],
+  "author": "Lonk Chase",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^8.0.0"
+  }
+}
